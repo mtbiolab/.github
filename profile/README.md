@@ -6,11 +6,13 @@ This GitHub organization is home to all coded workflows related to active and ar
 
 ## Repositories
 See the table below for a list of repositories.
+> **Note:** Repo links only work for organization members who are logged in to GitHub.
+
 | Repo | Description | Privacy |
 |---|---|---|
-| early-life-history | Scripts for the Early Life History project, Colorado | Private |
-| huancavlica | Scripts for the Huancavlica project, Peru | Private |
-| lab-time-tracking | Summarizes total hours worked on various projects from locally-stored, self-reported data | Private |
-| survey123_designs | Sharable files and file structures for re-creation of surveys with ESRI/[AGOL Survey 123](https://survey123.arcgis.com/) | Private |
-| ecuador-turf-transplants | Scripts for the turf transplant experiment, Ecuador | Private |
-| ecuador-open-top-chambers | Scripts for the Open Top Chambers (OTC) experiment, Ecuador | Private |
+| [early-life-history](https://github.com/mtbiolab/early-life-history) | Scripts for the Early Life History project, Colorado | Private |
+| [huancavlica](https://github.com/mtbiolab/huancavlica) | Scripts for the Huancavlica project, Peru | Private |
+| [lab-time-tracking](https://github.com/mtbiolab/lab-time-tracking) | Summarizes total hours worked on various projects from locally-stored, self-reported data | Private |
+| [survey123_designs](https://github.com/mtbiolab/survey123_designs) | Sharable files and file structures for re-creation of surveys with ESRI/[AGOL Survey 123](https://survey123.arcgis.com/) | Private |
+| [ecuador-turf-transplants](https://github.com/mtbiolab/ecuador-turf-transplants) | Scripts for the turf transplant experiment, Ecuador | Private |
+| [ecuador-open-top-chambers](https://github.com/mtbiolab/ecuador-open-top-chambers) | Scripts for the Open Top Chambers (OTC) experiment, Ecuador | Private |
